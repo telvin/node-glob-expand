@@ -40,6 +40,9 @@
     "node": ">0.10"
   },
   "dependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-watch": "0.5.x",
+    "grunt-urequire": "^0.7.3",
     "glob": "~4.5.x",
     "lodash": "~4.13.x"
   },
